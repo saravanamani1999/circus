@@ -12,7 +12,7 @@ public class Trainer {
         Duck d2 = (Duck) a; // downcasting
         getToSpeak(d2);
 
-//        train(new Duck());
+        train(new Duck());
          train(new Parrot());
 
         Animal a2 = new Animal();
