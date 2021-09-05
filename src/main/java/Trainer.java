@@ -13,11 +13,7 @@ public class Trainer {
         getToSpeak(d2);
 
         train(new Duck());
-<<<<<<< HEAD
          train(new Parrot());
-=======
-         train(new Parrot());
->>>>>>> firstfeature
 
         Animal a2 = new Animal();
         Bird b2 = new Bird();
