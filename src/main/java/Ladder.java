@@ -6,6 +6,6 @@ public class Ladder extends Equipment {
 
     @Override
     public int getValue() {
-        return purchasePrice / 2;
+        return purchasePrice / 3;
     }
 }
