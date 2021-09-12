@@ -6,6 +6,8 @@ public class Ladder extends Equipment {
 
     @Override
     public int getValue() {
+        System.out.println("hi");
         return purchasePrice / 3;
+
     }
 }
