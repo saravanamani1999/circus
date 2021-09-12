@@ -27,5 +27,6 @@ public class Trainer {
     private static void train(Bird bird) {
         Duck d = (Duck) bird;
         d.swim();
+        System.out.println("hi");
     }
 }
